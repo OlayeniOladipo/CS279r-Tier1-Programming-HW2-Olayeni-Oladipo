@@ -18,15 +18,14 @@ Flutter VS. MongoDB/Node.JS
 
 1) Clone or download this repo, saving the files to a directory
 2) Open terminal and CD into the directory of the downloaded files.
-3) Open up terminal and enter:
->  flutter run
-(Select which Chrome device in the terminal if prompted to)
+3) Open up terminal and enter what's below (Select which Chrome device in the terminal if prompted to):
+>  flutter run <br /> 
 4) Your Chrome browswer will automatically open up a link of form localhost:#####/
 
-On the link, play around with the following features:
-    1) Add a to-do list item by pressing the + button in the bottom left corner and typing in a task
-    2) Check off the to-do list item by pressing the todo list item
-    3) Press the trash icon to delete thetodo item.
+On the link, play around with the following features: <br />
+1) Add a to-do list item by pressing the + button in the bottom left corner and typing in a task.
+2) Check off the to-do list item by pressing the todo list item
+3) Press the trash icon to delete thetodo item.
 
 Worked off the code from the following sources:
 - https://docs.flutter.dev/get-started/test-drive#create-app <br/>
