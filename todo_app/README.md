@@ -7,7 +7,7 @@ September 16, 2022 <br />
 **Reflection:** What are the significant software concepts that this combination of technologies has that each previous set of technologies did not? Or that they handle significantly differently?
 
 Flutter VS. HTML/CSS/JS
-- Flutter is for UI developement for cross-platform applications. Though for my web application, flutter & dart accomplish the same thing as HTML/CSS/JS did. Differences is that whil HTML treats the page as document with elements added, flutter draws a page onto an HTML canvas, allowing it to control every pixel of the screen via widgets. This gives developers more control when using flutter and makes web dev easier.
+- Flutter is for UI development for cross-platform applications. Though for my web application, flutter & dart accomplish the same thing as HTML/CSS/JS did. Differences is that while HTML treats the page as document with elements added, flutter draws a page onto an HTML canvas, allowing it to control every pixel of the screen via widgets. This gives developers more control when using flutter and makes web dev easier.
 
 Flutter VS. MongoDB/Node.JS
 - These frameworks serve different purposes. Node.JS could be used as a backend for a flutter app. My todo app used Dart as the backend, but dart is more of a web programming language with libraries while node.js is an entire framework. For a full cross-platform flutter app, you'd have to use other languages as well like Swift for iOS or java/kotlin for Android.
